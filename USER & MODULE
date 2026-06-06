@@ -1,0 +1,14 @@
+USERS:
+
+User – Answers questions and views personality prediction.
+Admin (optional) – Manages dataset, model updates, and system maintenance.
+
+MODULES:
+
+User Registration/Login (optional)
+Questionnaire Module – Displays personality questions.
+Response Collection Module – Stores user answers.
+Data Preprocessing Module – Cleans and prepares data.
+ML Prediction Module – Predicts personality type.
+Result Display Module – Shows predicted personality and description.
+Admin Module (optional) – Manage data and model.
