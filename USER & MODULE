@@ -1,14 +1,17 @@
 USERS:
 
-User – Answers questions and views personality prediction.
-Admin (optional) – Manages dataset, model updates, and system maintenance.
+1. Farmer
+2. Admin
 
 MODULES:
 
-User Registration/Login (optional)
-Questionnaire Module – Displays personality questions.
-Response Collection Module – Stores user answers.
-Data Preprocessing Module – Cleans and prepares data.
-ML Prediction Module – Predicts personality type.
-Result Display Module – Shows predicted personality and description.
-Admin Module (optional) – Manage data and model.
+1. User Authentication Module
+   * Register/Login
+2. Crop Recommendation Module
+   * Enter soil and weather details
+   * Get recommended crop
+3. Weather Information Module
+   * View current weather data
+4. Admin Module
+   * Manage dataset
+   * View user predictions
