@@ -1,34 +1,24 @@
 PROJECT TITLE :
 
-Personality Type Predictor
+Smart Crop Advisory System for Small and Marginal Farmers
 
 OVERVIEW :
 
-This project analyzes user responses or text and predicts their personality type (such as Introvert/Extrovert or MBTI types) using machine learning algorithms.
+The Smart Crop Advisory System helps small and marginal farmers make informed farming decisions using weather, soil, crop, and market data. It provides timely recommendations on crop selection, irrigation, fertilization, and pest management to improve yield and reduce costs.
+
 
 PROBLEM STATEMENT:
 
-People often want to understand their personality traits, but traditional personality assessments can be time-consuming. This project aims to automate personality prediction using machine learning techniques on questionnaire or text data.
+Small and marginal farmers often lack timely access to accurate information on weather, soil conditions, pest control, and market trends. This leads to poor decision-making, reduced crop yields, and lower income.
 
-TOOLS:
+
+TOOLS and TECHNOLOGIES:
 
 Python
+Jupyter Notebook
 Pandas
 NumPy
 Scikit-learn
-Matplotlib (optional)
-
-REQUIREMENTS :
-
-Logistic Regression
-Random Forest
-Naive Bayes
-Dataset Ideas
-MBTI Personality Dataset from Kaggle
-Introvert vs Extrovert datasets
-Skills Demonstrated
-Data Cleaning
-Feature Engineering
-Text Processing (if using text data)
-Model Training
-Model Evaluation
+Matplotlib
+Joblib (for model saving)
+Crop Recommendation Dataset
